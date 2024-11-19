@@ -1,0 +1,249 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/PramData/AndroidApplicationController/Cache/com.DefaultCompany.MRTestApp/gradle-project/unityLibrary/src/main/AndroidManifest.xml:2:1-42:12
+INJECTED from /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/PramData/AndroidApplicationController/Cache/com.DefaultCompany.MRTestApp/gradle-project/unityLibrary/src/main/AndroidManifest.xml:2:1-42:12
+INJECTED from /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/PramData/AndroidApplicationController/Cache/com.DefaultCompany.MRTestApp/gradle-project/unityLibrary/src/main/AndroidManifest.xml:2:1-42:12
+	package
+		INJECTED from /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/PramData/AndroidApplicationController/Cache/com.DefaultCompany.MRTestApp/gradle-project/unityLibrary/src/main/AndroidManifest.xml
+		ADDED from /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/PramData/AndroidApplicationController/Cache/com.DefaultCompany.MRTestApp/gradle-project/unityLibrary/src/main/AndroidManifest.xml:2:1-42:12
+		INJECTED from /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/PramData/AndroidApplicationController/Cache/com.DefaultCompany.MRTestApp/gradle-project/unityLibrary/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/PramData/AndroidApplicationController/Cache/com.DefaultCompany.MRTestApp/gradle-project/unityLibrary/src/main/AndroidManifest.xml:2:70-116
+	xmlns:android
+		ADDED from /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/PramData/AndroidApplicationController/Cache/com.DefaultCompany.MRTestApp/gradle-project/unityLibrary/src/main/AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/PramData/AndroidApplicationController/Cache/com.DefaultCompany.MRTestApp/gradle-project/unityLibrary/src/main/AndroidManifest.xml:2:117-147
+uses-permission#android.permission.INTERNET
+ADDED from /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/PramData/AndroidApplicationController/Cache/com.DefaultCompany.MRTestApp/gradle-project/unityLibrary/src/main/AndroidManifest.xml:3:3-65
+	android:name
+		ADDED from /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/PramData/AndroidApplicationController/Cache/com.DefaultCompany.MRTestApp/gradle-project/unityLibrary/src/main/AndroidManifest.xml:3:20-62
+uses-feature#android.hardware.vr.headtracking
+ADDED from /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/PramData/AndroidApplicationController/Cache/com.DefaultCompany.MRTestApp/gradle-project/unityLibrary/src/main/AndroidManifest.xml:4:3-111
+	android:version
+		ADDED from /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/PramData/AndroidApplicationController/Cache/com.DefaultCompany.MRTestApp/gradle-project/unityLibrary/src/main/AndroidManifest.xml:4:65-84
+	android:required
+		ADDED from /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/PramData/AndroidApplicationController/Cache/com.DefaultCompany.MRTestApp/gradle-project/unityLibrary/src/main/AndroidManifest.xml:4:85-108
+	android:name
+		ADDED from /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/PramData/AndroidApplicationController/Cache/com.DefaultCompany.MRTestApp/gradle-project/unityLibrary/src/main/AndroidManifest.xml:4:17-64
+uses-feature#android.hardware.vulkan.version
+ADDED from /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/PramData/AndroidApplicationController/Cache/com.DefaultCompany.MRTestApp/gradle-project/unityLibrary/src/main/AndroidManifest.xml:5:3-90
+	android:required
+		ADDED from /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/PramData/AndroidApplicationController/Cache/com.DefaultCompany.MRTestApp/gradle-project/unityLibrary/src/main/AndroidManifest.xml:5:64-87
+	android:name
+		ADDED from /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/PramData/AndroidApplicationController/Cache/com.DefaultCompany.MRTestApp/gradle-project/unityLibrary/src/main/AndroidManifest.xml:5:17-63
+uses-feature#android.hardware.touchscreen
+ADDED from /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/PramData/AndroidApplicationController/Cache/com.DefaultCompany.MRTestApp/gradle-project/unityLibrary/src/main/AndroidManifest.xml:6:3-88
+	android:required
+		ADDED from /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/PramData/AndroidApplicationController/Cache/com.DefaultCompany.MRTestApp/gradle-project/unityLibrary/src/main/AndroidManifest.xml:6:61-85
+	android:name
+		ADDED from /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/PramData/AndroidApplicationController/Cache/com.DefaultCompany.MRTestApp/gradle-project/unityLibrary/src/main/AndroidManifest.xml:6:17-60
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/PramData/AndroidApplicationController/Cache/com.DefaultCompany.MRTestApp/gradle-project/unityLibrary/src/main/AndroidManifest.xml:7:3-99
+	android:required
+		ADDED from /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/PramData/AndroidApplicationController/Cache/com.DefaultCompany.MRTestApp/gradle-project/unityLibrary/src/main/AndroidManifest.xml:7:72-96
+	android:name
+		ADDED from /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/PramData/AndroidApplicationController/Cache/com.DefaultCompany.MRTestApp/gradle-project/unityLibrary/src/main/AndroidManifest.xml:7:17-71
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/PramData/AndroidApplicationController/Cache/com.DefaultCompany.MRTestApp/gradle-project/unityLibrary/src/main/AndroidManifest.xml:8:3-108
+	android:required
+		ADDED from /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/PramData/AndroidApplicationController/Cache/com.DefaultCompany.MRTestApp/gradle-project/unityLibrary/src/main/AndroidManifest.xml:8:81-105
+	android:name
+		ADDED from /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/PramData/AndroidApplicationController/Cache/com.DefaultCompany.MRTestApp/gradle-project/unityLibrary/src/main/AndroidManifest.xml:8:17-80
+application
+ADDED from /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/PramData/AndroidApplicationController/Cache/com.DefaultCompany.MRTestApp/gradle-project/unityLibrary/src/main/AndroidManifest.xml:9:3-35:17
+	android:extractNativeLibs
+		ADDED from /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/PramData/AndroidApplicationController/Cache/com.DefaultCompany.MRTestApp/gradle-project/unityLibrary/src/main/AndroidManifest.xml:9:109-141
+	android:label
+		ADDED from /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/PramData/AndroidApplicationController/Cache/com.DefaultCompany.MRTestApp/gradle-project/unityLibrary/src/main/AndroidManifest.xml:9:16-48
+	android:icon
+		ADDED from /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/PramData/AndroidApplicationController/Cache/com.DefaultCompany.MRTestApp/gradle-project/unityLibrary/src/main/AndroidManifest.xml:9:49-80
+	android:allowBackup
+		ADDED from /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/PramData/AndroidApplicationController/Cache/com.DefaultCompany.MRTestApp/gradle-project/unityLibrary/src/main/AndroidManifest.xml:9:81-108
+	android:networkSecurityConfig
+		ADDED from /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/PramData/AndroidApplicationController/Cache/com.DefaultCompany.MRTestApp/gradle-project/unityLibrary/src/main/AndroidManifest.xml:9:142-197
+meta-data#unityplayer.SkipPermissionsDialog
+ADDED from /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/PramData/AndroidApplicationController/Cache/com.DefaultCompany.MRTestApp/gradle-project/unityLibrary/src/main/AndroidManifest.xml:10:5-89
+	android:value
+		ADDED from /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/PramData/AndroidApplicationController/Cache/com.DefaultCompany.MRTestApp/gradle-project/unityLibrary/src/main/AndroidManifest.xml:10:65-86
+	android:name
+		ADDED from /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/PramData/AndroidApplicationController/Cache/com.DefaultCompany.MRTestApp/gradle-project/unityLibrary/src/main/AndroidManifest.xml:10:16-64
+meta-data#com.samsung.android.vr.application.mode
+ADDED from /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/PramData/AndroidApplicationController/Cache/com.DefaultCompany.MRTestApp/gradle-project/unityLibrary/src/main/AndroidManifest.xml:11:5-97
+	android:value
+		ADDED from /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/PramData/AndroidApplicationController/Cache/com.DefaultCompany.MRTestApp/gradle-project/unityLibrary/src/main/AndroidManifest.xml:11:71-94
+	android:name
+		ADDED from /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/PramData/AndroidApplicationController/Cache/com.DefaultCompany.MRTestApp/gradle-project/unityLibrary/src/main/AndroidManifest.xml:11:16-70
+meta-data#com.oculus.ossplash.background
+ADDED from /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/PramData/AndroidApplicationController/Cache/com.DefaultCompany.MRTestApp/gradle-project/unityLibrary/src/main/AndroidManifest.xml:12:5-103
+	android:value
+		ADDED from /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/PramData/AndroidApplicationController/Cache/com.DefaultCompany.MRTestApp/gradle-project/unityLibrary/src/main/AndroidManifest.xml:12:62-100
+	android:name
+		ADDED from /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/PramData/AndroidApplicationController/Cache/com.DefaultCompany.MRTestApp/gradle-project/unityLibrary/src/main/AndroidManifest.xml:12:16-61
+meta-data#com.oculus.telemetry.project_guid
+ADDED from /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/PramData/AndroidApplicationController/Cache/com.DefaultCompany.MRTestApp/gradle-project/unityLibrary/src/main/AndroidManifest.xml:13:5-120
+	android:value
+		ADDED from /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/PramData/AndroidApplicationController/Cache/com.DefaultCompany.MRTestApp/gradle-project/unityLibrary/src/main/AndroidManifest.xml:13:65-117
+	android:name
+		ADDED from /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/PramData/AndroidApplicationController/Cache/com.DefaultCompany.MRTestApp/gradle-project/unityLibrary/src/main/AndroidManifest.xml:13:16-64
+meta-data#com.oculus.supportedDevices
+ADDED from /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/PramData/AndroidApplicationController/Cache/com.DefaultCompany.MRTestApp/gradle-project/unityLibrary/src/main/AndroidManifest.xml:14:5-84
+	android:value
+		ADDED from /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/PramData/AndroidApplicationController/Cache/com.DefaultCompany.MRTestApp/gradle-project/unityLibrary/src/main/AndroidManifest.xml:14:59-81
+	android:name
+		ADDED from /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/PramData/AndroidApplicationController/Cache/com.DefaultCompany.MRTestApp/gradle-project/unityLibrary/src/main/AndroidManifest.xml:14:16-58
+meta-data#unity.splash-mode
+ADDED from /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/PramData/AndroidApplicationController/Cache/com.DefaultCompany.MRTestApp/gradle-project/unityLibrary/src/main/AndroidManifest.xml:15:5-69
+	android:value
+		ADDED from /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/PramData/AndroidApplicationController/Cache/com.DefaultCompany.MRTestApp/gradle-project/unityLibrary/src/main/AndroidManifest.xml:15:49-66
+	android:name
+		ADDED from /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/PramData/AndroidApplicationController/Cache/com.DefaultCompany.MRTestApp/gradle-project/unityLibrary/src/main/AndroidManifest.xml:15:16-48
+meta-data#unity.splash-enable
+ADDED from /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/PramData/AndroidApplicationController/Cache/com.DefaultCompany.MRTestApp/gradle-project/unityLibrary/src/main/AndroidManifest.xml:16:5-74
+	android:value
+		ADDED from /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/PramData/AndroidApplicationController/Cache/com.DefaultCompany.MRTestApp/gradle-project/unityLibrary/src/main/AndroidManifest.xml:16:51-71
+	android:name
+		ADDED from /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/PramData/AndroidApplicationController/Cache/com.DefaultCompany.MRTestApp/gradle-project/unityLibrary/src/main/AndroidManifest.xml:16:16-50
+meta-data#unity.launch-fullscreen
+ADDED from /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/PramData/AndroidApplicationController/Cache/com.DefaultCompany.MRTestApp/gradle-project/unityLibrary/src/main/AndroidManifest.xml:17:5-78
+	android:value
+		ADDED from /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/PramData/AndroidApplicationController/Cache/com.DefaultCompany.MRTestApp/gradle-project/unityLibrary/src/main/AndroidManifest.xml:17:55-75
+	android:name
+		ADDED from /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/PramData/AndroidApplicationController/Cache/com.DefaultCompany.MRTestApp/gradle-project/unityLibrary/src/main/AndroidManifest.xml:17:16-54
+meta-data#unity.render-outside-safearea
+ADDED from /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/PramData/AndroidApplicationController/Cache/com.DefaultCompany.MRTestApp/gradle-project/unityLibrary/src/main/AndroidManifest.xml:18:5-84
+	android:value
+		ADDED from /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/PramData/AndroidApplicationController/Cache/com.DefaultCompany.MRTestApp/gradle-project/unityLibrary/src/main/AndroidManifest.xml:18:61-81
+	android:name
+		ADDED from /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/PramData/AndroidApplicationController/Cache/com.DefaultCompany.MRTestApp/gradle-project/unityLibrary/src/main/AndroidManifest.xml:18:16-60
+meta-data#notch.config
+ADDED from /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/PramData/AndroidApplicationController/Cache/com.DefaultCompany.MRTestApp/gradle-project/unityLibrary/src/main/AndroidManifest.xml:19:5-81
+	android:value
+		ADDED from /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/PramData/AndroidApplicationController/Cache/com.DefaultCompany.MRTestApp/gradle-project/unityLibrary/src/main/AndroidManifest.xml:19:44-78
+	android:name
+		ADDED from /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/PramData/AndroidApplicationController/Cache/com.DefaultCompany.MRTestApp/gradle-project/unityLibrary/src/main/AndroidManifest.xml:19:16-43
+meta-data#unity.auto-report-fully-drawn
+ADDED from /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/PramData/AndroidApplicationController/Cache/com.DefaultCompany.MRTestApp/gradle-project/unityLibrary/src/main/AndroidManifest.xml:20:5-84
+	android:value
+		ADDED from /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/PramData/AndroidApplicationController/Cache/com.DefaultCompany.MRTestApp/gradle-project/unityLibrary/src/main/AndroidManifest.xml:20:61-81
+	android:name
+		ADDED from /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/PramData/AndroidApplicationController/Cache/com.DefaultCompany.MRTestApp/gradle-project/unityLibrary/src/main/AndroidManifest.xml:20:16-60
+activity#com.unity3d.player.UnityPlayerActivity
+ADDED from /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/PramData/AndroidApplicationController/Cache/com.DefaultCompany.MRTestApp/gradle-project/unityLibrary/src/main/AndroidManifest.xml:21:5-29:16
+	android:screenOrientation
+		ADDED from /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/PramData/AndroidApplicationController/Cache/com.DefaultCompany.MRTestApp/gradle-project/unityLibrary/src/main/AndroidManifest.xml:21:334-371
+	android:excludeFromRecents
+		ADDED from /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/PramData/AndroidApplicationController/Cache/com.DefaultCompany.MRTestApp/gradle-project/unityLibrary/src/main/AndroidManifest.xml:21:276-309
+	android:launchMode
+		ADDED from /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/PramData/AndroidApplicationController/Cache/com.DefaultCompany.MRTestApp/gradle-project/unityLibrary/src/main/AndroidManifest.xml:21:190-221
+	android:hardwareAccelerated
+		ADDED from /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/PramData/AndroidApplicationController/Cache/com.DefaultCompany.MRTestApp/gradle-project/unityLibrary/src/main/AndroidManifest.xml:21:407-442
+	android:exported
+		ADDED from /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/PramData/AndroidApplicationController/Cache/com.DefaultCompany.MRTestApp/gradle-project/unityLibrary/src/main/AndroidManifest.xml:21:310-333
+	android:resizeableActivity
+		ADDED from /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/PramData/AndroidApplicationController/Cache/com.DefaultCompany.MRTestApp/gradle-project/unityLibrary/src/main/AndroidManifest.xml:21:372-406
+	android:configChanges
+		ADDED from /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/PramData/AndroidApplicationController/Cache/com.DefaultCompany.MRTestApp/gradle-project/unityLibrary/src/main/AndroidManifest.xml:21:80-189
+	android:theme
+		ADDED from /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/PramData/AndroidApplicationController/Cache/com.DefaultCompany.MRTestApp/gradle-project/unityLibrary/src/main/AndroidManifest.xml:21:15-79
+	android:name
+		ADDED from /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/PramData/AndroidApplicationController/Cache/com.DefaultCompany.MRTestApp/gradle-project/unityLibrary/src/main/AndroidManifest.xml:21:222-275
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER+category:name:com.oculus.intent.category.VR
+ADDED from /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/PramData/AndroidApplicationController/Cache/com.DefaultCompany.MRTestApp/gradle-project/unityLibrary/src/main/AndroidManifest.xml:22:7-26:23
+category#android.intent.category.LAUNCHER
+ADDED from /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/PramData/AndroidApplicationController/Cache/com.DefaultCompany.MRTestApp/gradle-project/unityLibrary/src/main/AndroidManifest.xml:23:9-69
+	android:name
+		ADDED from /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/PramData/AndroidApplicationController/Cache/com.DefaultCompany.MRTestApp/gradle-project/unityLibrary/src/main/AndroidManifest.xml:23:19-66
+category#com.oculus.intent.category.VR
+ADDED from /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/PramData/AndroidApplicationController/Cache/com.DefaultCompany.MRTestApp/gradle-project/unityLibrary/src/main/AndroidManifest.xml:24:9-66
+	android:name
+		ADDED from /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/PramData/AndroidApplicationController/Cache/com.DefaultCompany.MRTestApp/gradle-project/unityLibrary/src/main/AndroidManifest.xml:24:19-63
+action#android.intent.action.MAIN
+ADDED from /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/PramData/AndroidApplicationController/Cache/com.DefaultCompany.MRTestApp/gradle-project/unityLibrary/src/main/AndroidManifest.xml:25:9-61
+	android:name
+		ADDED from /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/PramData/AndroidApplicationController/Cache/com.DefaultCompany.MRTestApp/gradle-project/unityLibrary/src/main/AndroidManifest.xml:25:17-58
+meta-data#com.oculus.vr.focusaware
+ADDED from /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/PramData/AndroidApplicationController/Cache/com.DefaultCompany.MRTestApp/gradle-project/unityLibrary/src/main/AndroidManifest.xml:27:7-81
+	android:value
+		ADDED from /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/PramData/AndroidApplicationController/Cache/com.DefaultCompany.MRTestApp/gradle-project/unityLibrary/src/main/AndroidManifest.xml:27:58-78
+	android:name
+		ADDED from /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/PramData/AndroidApplicationController/Cache/com.DefaultCompany.MRTestApp/gradle-project/unityLibrary/src/main/AndroidManifest.xml:27:18-57
+meta-data#notch_support
+ADDED from /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/PramData/AndroidApplicationController/Cache/com.DefaultCompany.MRTestApp/gradle-project/unityLibrary/src/main/AndroidManifest.xml:28:7-70
+	android:value
+		ADDED from /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/PramData/AndroidApplicationController/Cache/com.DefaultCompany.MRTestApp/gradle-project/unityLibrary/src/main/AndroidManifest.xml:28:47-67
+	android:name
+		ADDED from /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/PramData/AndroidApplicationController/Cache/com.DefaultCompany.MRTestApp/gradle-project/unityLibrary/src/main/AndroidManifest.xml:28:18-46
+meta-data#com.unity.xr.oculus.LowOverheadMode
+ADDED from /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/PramData/AndroidApplicationController/Cache/com.DefaultCompany.MRTestApp/gradle-project/unityLibrary/src/main/AndroidManifest.xml:30:5-91
+	android:value
+		ADDED from /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/PramData/AndroidApplicationController/Cache/com.DefaultCompany.MRTestApp/gradle-project/unityLibrary/src/main/AndroidManifest.xml:30:67-88
+	android:name
+		ADDED from /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/PramData/AndroidApplicationController/Cache/com.DefaultCompany.MRTestApp/gradle-project/unityLibrary/src/main/AndroidManifest.xml:30:16-66
+meta-data#com.unity.xr.oculus.LateLatching
+ADDED from /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/PramData/AndroidApplicationController/Cache/com.DefaultCompany.MRTestApp/gradle-project/unityLibrary/src/main/AndroidManifest.xml:31:5-88
+	android:value
+		ADDED from /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/PramData/AndroidApplicationController/Cache/com.DefaultCompany.MRTestApp/gradle-project/unityLibrary/src/main/AndroidManifest.xml:31:64-85
+	android:name
+		ADDED from /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/PramData/AndroidApplicationController/Cache/com.DefaultCompany.MRTestApp/gradle-project/unityLibrary/src/main/AndroidManifest.xml:31:16-63
+meta-data#com.unity.xr.oculus.LateLatchingDebug
+ADDED from /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/PramData/AndroidApplicationController/Cache/com.DefaultCompany.MRTestApp/gradle-project/unityLibrary/src/main/AndroidManifest.xml:32:5-93
+	android:value
+		ADDED from /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/PramData/AndroidApplicationController/Cache/com.DefaultCompany.MRTestApp/gradle-project/unityLibrary/src/main/AndroidManifest.xml:32:69-90
+	android:name
+		ADDED from /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/PramData/AndroidApplicationController/Cache/com.DefaultCompany.MRTestApp/gradle-project/unityLibrary/src/main/AndroidManifest.xml:32:16-68
+meta-data#com.oculus.handtracking.frequency
+ADDED from /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/PramData/AndroidApplicationController/Cache/com.DefaultCompany.MRTestApp/gradle-project/unityLibrary/src/main/AndroidManifest.xml:33:5-87
+	android:value
+		ADDED from /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/PramData/AndroidApplicationController/Cache/com.DefaultCompany.MRTestApp/gradle-project/unityLibrary/src/main/AndroidManifest.xml:33:65-84
+	android:name
+		ADDED from /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/PramData/AndroidApplicationController/Cache/com.DefaultCompany.MRTestApp/gradle-project/unityLibrary/src/main/AndroidManifest.xml:33:16-64
+meta-data#com.oculus.handtracking.version
+ADDED from /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/PramData/AndroidApplicationController/Cache/com.DefaultCompany.MRTestApp/gradle-project/unityLibrary/src/main/AndroidManifest.xml:34:5-86
+	android:value
+		ADDED from /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/PramData/AndroidApplicationController/Cache/com.DefaultCompany.MRTestApp/gradle-project/unityLibrary/src/main/AndroidManifest.xml:34:63-83
+	android:name
+		ADDED from /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/PramData/AndroidApplicationController/Cache/com.DefaultCompany.MRTestApp/gradle-project/unityLibrary/src/main/AndroidManifest.xml:34:16-62
+uses-feature#oculus.software.handtracking
+ADDED from /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/PramData/AndroidApplicationController/Cache/com.DefaultCompany.MRTestApp/gradle-project/unityLibrary/src/main/AndroidManifest.xml:36:3-88
+	android:required
+		ADDED from /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/PramData/AndroidApplicationController/Cache/com.DefaultCompany.MRTestApp/gradle-project/unityLibrary/src/main/AndroidManifest.xml:36:61-85
+	android:name
+		ADDED from /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/PramData/AndroidApplicationController/Cache/com.DefaultCompany.MRTestApp/gradle-project/unityLibrary/src/main/AndroidManifest.xml:36:17-60
+uses-permission#com.oculus.permission.HAND_TRACKING
+ADDED from /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/PramData/AndroidApplicationController/Cache/com.DefaultCompany.MRTestApp/gradle-project/unityLibrary/src/main/AndroidManifest.xml:37:3-73
+	android:name
+		ADDED from /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/PramData/AndroidApplicationController/Cache/com.DefaultCompany.MRTestApp/gradle-project/unityLibrary/src/main/AndroidManifest.xml:37:20-70
+uses-feature#com.oculus.experimental.enabled
+ADDED from /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/PramData/AndroidApplicationController/Cache/com.DefaultCompany.MRTestApp/gradle-project/unityLibrary/src/main/AndroidManifest.xml:38:3-90
+	android:required
+		ADDED from /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/PramData/AndroidApplicationController/Cache/com.DefaultCompany.MRTestApp/gradle-project/unityLibrary/src/main/AndroidManifest.xml:38:64-87
+	android:name
+		ADDED from /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/PramData/AndroidApplicationController/Cache/com.DefaultCompany.MRTestApp/gradle-project/unityLibrary/src/main/AndroidManifest.xml:38:17-63
+uses-permission#com.oculus.permission.USE_ANCHOR_API
+ADDED from /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/PramData/AndroidApplicationController/Cache/com.DefaultCompany.MRTestApp/gradle-project/unityLibrary/src/main/AndroidManifest.xml:39:3-74
+	android:name
+		ADDED from /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/PramData/AndroidApplicationController/Cache/com.DefaultCompany.MRTestApp/gradle-project/unityLibrary/src/main/AndroidManifest.xml:39:20-71
+uses-feature#com.oculus.feature.PASSTHROUGH
+ADDED from /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/PramData/AndroidApplicationController/Cache/com.DefaultCompany.MRTestApp/gradle-project/unityLibrary/src/main/AndroidManifest.xml:40:3-90
+	android:required
+		ADDED from /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/PramData/AndroidApplicationController/Cache/com.DefaultCompany.MRTestApp/gradle-project/unityLibrary/src/main/AndroidManifest.xml:40:63-87
+	android:name
+		ADDED from /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/PramData/AndroidApplicationController/Cache/com.DefaultCompany.MRTestApp/gradle-project/unityLibrary/src/main/AndroidManifest.xml:40:17-62
+uses-permission#com.oculus.permission.USE_SCENE
+ADDED from /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/PramData/AndroidApplicationController/Cache/com.DefaultCompany.MRTestApp/gradle-project/unityLibrary/src/main/AndroidManifest.xml:41:3-69
+	android:name
+		ADDED from /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/PramData/AndroidApplicationController/Cache/com.DefaultCompany.MRTestApp/gradle-project/unityLibrary/src/main/AndroidManifest.xml:41:20-66
+uses-sdk
+INJECTED from /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/PramData/AndroidApplicationController/Cache/com.DefaultCompany.MRTestApp/gradle-project/unityLibrary/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/PramData/AndroidApplicationController/Cache/com.DefaultCompany.MRTestApp/gradle-project/unityLibrary/src/main/AndroidManifest.xml
+INJECTED from /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/PramData/AndroidApplicationController/Cache/com.DefaultCompany.MRTestApp/gradle-project/unityLibrary/src/main/AndroidManifest.xml
+INJECTED from /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/PramData/AndroidApplicationController/Cache/com.DefaultCompany.MRTestApp/gradle-project/unityLibrary/src/main/AndroidManifest.xml
+INJECTED from /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/PramData/AndroidApplicationController/Cache/com.DefaultCompany.MRTestApp/gradle-project/unityLibrary/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/PramData/AndroidApplicationController/Cache/com.DefaultCompany.MRTestApp/gradle-project/unityLibrary/src/main/AndroidManifest.xml
+		ADDED from /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/PramData/AndroidApplicationController/Cache/com.DefaultCompany.MRTestApp/gradle-project/unityLibrary/src/main/AndroidManifest.xml
+		INJECTED from /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/PramData/AndroidApplicationController/Cache/com.DefaultCompany.MRTestApp/gradle-project/unityLibrary/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/PramData/AndroidApplicationController/Cache/com.DefaultCompany.MRTestApp/gradle-project/unityLibrary/src/main/AndroidManifest.xml
+		ADDED from /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/PramData/AndroidApplicationController/Cache/com.DefaultCompany.MRTestApp/gradle-project/unityLibrary/src/main/AndroidManifest.xml
+		INJECTED from /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/PramData/AndroidApplicationController/Cache/com.DefaultCompany.MRTestApp/gradle-project/unityLibrary/src/main/AndroidManifest.xml
