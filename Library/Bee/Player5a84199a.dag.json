@@ -1310,8 +1310,7 @@
         1302,
         1303,
         1304,
-        1305,
-        1306
+        1305
       ],
       "OverwriteOutputs": false,
       "DebugActionIndex": 0
@@ -27623,21 +27622,6 @@
       "DebugActionIndex": 1160
     },
     {
-      "Annotation": "CopyFiles /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/icallsummary.txt",
-      "DisplayName": "Copying icallsummary.txt",
-      "ActionType": "CopyFiles",
-      "Inputs": [
-        "Library/Bee/artifacts/Android/ManagedStripped/icallsummary.txt"
-      ],
-      "Outputs": [
-        "/Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/icallsummary.txt"
-      ],
-      "ToBuildDependencies": [
-        27
-      ],
-      "DebugActionIndex": 1161
-    },
-    {
       "Annotation": "CopyFiles /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/Meta.XR.Audio.dll",
       "DisplayName": "Copying Meta.XR.Audio.dll",
       "ActionType": "CopyFiles",
@@ -27650,7 +27634,7 @@
       "ToBuildDependencies": [
         27
       ],
-      "DebugActionIndex": 1162
+      "DebugActionIndex": 1161
     },
     {
       "Annotation": "CopyFiles /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/Meta.XR.Audio.pdb",
@@ -27665,7 +27649,7 @@
       "ToBuildDependencies": [
         27
       ],
-      "DebugActionIndex": 1163
+      "DebugActionIndex": 1162
     },
     {
       "Annotation": "CopyFiles /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/Meta.XR.BuildingBlocks.DepthAPI.dll",
@@ -27680,7 +27664,7 @@
       "ToBuildDependencies": [
         27
       ],
-      "DebugActionIndex": 1164
+      "DebugActionIndex": 1163
     },
     {
       "Annotation": "CopyFiles /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/Meta.XR.BuildingBlocks.DepthAPI.pdb",
@@ -27695,7 +27679,7 @@
       "ToBuildDependencies": [
         27
       ],
-      "DebugActionIndex": 1165
+      "DebugActionIndex": 1164
     },
     {
       "Annotation": "CopyFiles /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/Meta.XR.BuildingBlocks.dll",
@@ -27710,7 +27694,7 @@
       "ToBuildDependencies": [
         27
       ],
-      "DebugActionIndex": 1166
+      "DebugActionIndex": 1165
     },
     {
       "Annotation": "CopyFiles /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/Meta.XR.BuildingBlocks.pdb",
@@ -27725,7 +27709,7 @@
       "ToBuildDependencies": [
         27
       ],
-      "DebugActionIndex": 1167
+      "DebugActionIndex": 1166
     },
     {
       "Annotation": "CopyFiles /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/Meta.XR.EnvironmentDepth.dll",
@@ -27740,7 +27724,7 @@
       "ToBuildDependencies": [
         27
       ],
-      "DebugActionIndex": 1168
+      "DebugActionIndex": 1167
     },
     {
       "Annotation": "CopyFiles /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/Meta.XR.EnvironmentDepth.pdb",
@@ -27755,7 +27739,7 @@
       "ToBuildDependencies": [
         27
       ],
-      "DebugActionIndex": 1169
+      "DebugActionIndex": 1168
     },
     {
       "Annotation": "CopyFiles /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/Meta.XR.ImmersiveDebugger.dll",
@@ -27770,7 +27754,7 @@
       "ToBuildDependencies": [
         27
       ],
-      "DebugActionIndex": 1170
+      "DebugActionIndex": 1169
     },
     {
       "Annotation": "CopyFiles /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/Meta.XR.ImmersiveDebugger.Interface.dll",
@@ -27785,7 +27769,7 @@
       "ToBuildDependencies": [
         27
       ],
-      "DebugActionIndex": 1171
+      "DebugActionIndex": 1170
     },
     {
       "Annotation": "CopyFiles /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/Meta.XR.ImmersiveDebugger.Interface.pdb",
@@ -27800,7 +27784,7 @@
       "ToBuildDependencies": [
         27
       ],
-      "DebugActionIndex": 1172
+      "DebugActionIndex": 1171
     },
     {
       "Annotation": "CopyFiles /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/Meta.XR.ImmersiveDebugger.pdb",
@@ -27815,7 +27799,7 @@
       "ToBuildDependencies": [
         27
       ],
-      "DebugActionIndex": 1173
+      "DebugActionIndex": 1172
     },
     {
       "Annotation": "CopyFiles /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/meta.xr.mrutilitykit.dll",
@@ -27830,7 +27814,7 @@
       "ToBuildDependencies": [
         27
       ],
-      "DebugActionIndex": 1174
+      "DebugActionIndex": 1173
     },
     {
       "Annotation": "CopyFiles /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/meta.xr.mrutilitykit.pdb",
@@ -27845,7 +27829,7 @@
       "ToBuildDependencies": [
         27
       ],
-      "DebugActionIndex": 1175
+      "DebugActionIndex": 1174
     },
     {
       "Annotation": "CopyFiles /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/Meta.XR.MultiplayerBlocks.Shared.dll",
@@ -27860,7 +27844,7 @@
       "ToBuildDependencies": [
         27
       ],
-      "DebugActionIndex": 1176
+      "DebugActionIndex": 1175
     },
     {
       "Annotation": "CopyFiles /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/Meta.XR.MultiplayerBlocks.Shared.pdb",
@@ -27875,7 +27859,7 @@
       "ToBuildDependencies": [
         27
       ],
-      "DebugActionIndex": 1177
+      "DebugActionIndex": 1176
     },
     {
       "Annotation": "CopyFiles /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/Mono.Security.dll",
@@ -27890,7 +27874,7 @@
       "ToBuildDependencies": [
         27
       ],
-      "DebugActionIndex": 1178
+      "DebugActionIndex": 1177
     },
     {
       "Annotation": "CopyFiles /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/mscorlib.dll",
@@ -27905,7 +27889,7 @@
       "ToBuildDependencies": [
         27
       ],
-      "DebugActionIndex": 1179
+      "DebugActionIndex": 1178
     },
     {
       "Annotation": "CopyFiles /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/Newtonsoft.Json.dll",
@@ -27920,7 +27904,7 @@
       "ToBuildDependencies": [
         27
       ],
-      "DebugActionIndex": 1180
+      "DebugActionIndex": 1179
     },
     {
       "Annotation": "CopyFiles /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/Oculus.Interaction.dll",
@@ -27935,7 +27919,7 @@
       "ToBuildDependencies": [
         27
       ],
-      "DebugActionIndex": 1181
+      "DebugActionIndex": 1180
     },
     {
       "Annotation": "CopyFiles /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/Oculus.Interaction.OVR.dll",
@@ -27950,7 +27934,7 @@
       "ToBuildDependencies": [
         27
       ],
-      "DebugActionIndex": 1182
+      "DebugActionIndex": 1181
     },
     {
       "Annotation": "CopyFiles /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/Oculus.Interaction.OVR.pdb",
@@ -27965,7 +27949,7 @@
       "ToBuildDependencies": [
         27
       ],
-      "DebugActionIndex": 1183
+      "DebugActionIndex": 1182
     },
     {
       "Annotation": "CopyFiles /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/Oculus.Interaction.pdb",
@@ -27980,7 +27964,7 @@
       "ToBuildDependencies": [
         27
       ],
-      "DebugActionIndex": 1184
+      "DebugActionIndex": 1183
     },
     {
       "Annotation": "CopyFiles /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/Oculus.Platform.dll",
@@ -27995,7 +27979,7 @@
       "ToBuildDependencies": [
         27
       ],
-      "DebugActionIndex": 1185
+      "DebugActionIndex": 1184
     },
     {
       "Annotation": "CopyFiles /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/Oculus.Platform.pdb",
@@ -28010,7 +27994,7 @@
       "ToBuildDependencies": [
         27
       ],
-      "DebugActionIndex": 1186
+      "DebugActionIndex": 1185
     },
     {
       "Annotation": "CopyFiles /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/Oculus.VR.dll",
@@ -28025,7 +28009,7 @@
       "ToBuildDependencies": [
         27
       ],
-      "DebugActionIndex": 1187
+      "DebugActionIndex": 1186
     },
     {
       "Annotation": "CopyFiles /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/Oculus.VR.pdb",
@@ -28040,7 +28024,7 @@
       "ToBuildDependencies": [
         27
       ],
-      "DebugActionIndex": 1188
+      "DebugActionIndex": 1187
     },
     {
       "Annotation": "CopyFiles /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/System.Configuration.dll",
@@ -28055,7 +28039,7 @@
       "ToBuildDependencies": [
         27
       ],
-      "DebugActionIndex": 1189
+      "DebugActionIndex": 1188
     },
     {
       "Annotation": "CopyFiles /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/System.Core.dll",
@@ -28070,7 +28054,7 @@
       "ToBuildDependencies": [
         27
       ],
-      "DebugActionIndex": 1190
+      "DebugActionIndex": 1189
     },
     {
       "Annotation": "CopyFiles /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/System.Data.dll",
@@ -28085,7 +28069,7 @@
       "ToBuildDependencies": [
         27
       ],
-      "DebugActionIndex": 1191
+      "DebugActionIndex": 1190
     },
     {
       "Annotation": "CopyFiles /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/System.dll",
@@ -28100,7 +28084,7 @@
       "ToBuildDependencies": [
         27
       ],
-      "DebugActionIndex": 1192
+      "DebugActionIndex": 1191
     },
     {
       "Annotation": "CopyFiles /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/System.Drawing.dll",
@@ -28115,7 +28099,7 @@
       "ToBuildDependencies": [
         27
       ],
-      "DebugActionIndex": 1193
+      "DebugActionIndex": 1192
     },
     {
       "Annotation": "CopyFiles /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/System.Numerics.dll",
@@ -28130,7 +28114,7 @@
       "ToBuildDependencies": [
         27
       ],
-      "DebugActionIndex": 1194
+      "DebugActionIndex": 1193
     },
     {
       "Annotation": "CopyFiles /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/System.Runtime.Serialization.dll",
@@ -28145,7 +28129,7 @@
       "ToBuildDependencies": [
         27
       ],
-      "DebugActionIndex": 1195
+      "DebugActionIndex": 1194
     },
     {
       "Annotation": "CopyFiles /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/System.Xml.dll",
@@ -28160,7 +28144,7 @@
       "ToBuildDependencies": [
         27
       ],
-      "DebugActionIndex": 1196
+      "DebugActionIndex": 1195
     },
     {
       "Annotation": "CopyFiles /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/System.Xml.Linq.dll",
@@ -28175,7 +28159,7 @@
       "ToBuildDependencies": [
         27
       ],
-      "DebugActionIndex": 1197
+      "DebugActionIndex": 1196
     },
     {
       "Annotation": "CopyFiles /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/Unity.AI.Navigation.dll",
@@ -28190,7 +28174,7 @@
       "ToBuildDependencies": [
         27
       ],
-      "DebugActionIndex": 1198
+      "DebugActionIndex": 1197
     },
     {
       "Annotation": "CopyFiles /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/Unity.AI.Navigation.pdb",
@@ -28205,7 +28189,7 @@
       "ToBuildDependencies": [
         27
       ],
-      "DebugActionIndex": 1199
+      "DebugActionIndex": 1198
     },
     {
       "Annotation": "CopyFiles /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/Unity.TextMeshPro.dll",
@@ -28220,7 +28204,7 @@
       "ToBuildDependencies": [
         27
       ],
-      "DebugActionIndex": 1200
+      "DebugActionIndex": 1199
     },
     {
       "Annotation": "CopyFiles /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/Unity.TextMeshPro.pdb",
@@ -28235,7 +28219,7 @@
       "ToBuildDependencies": [
         27
       ],
-      "DebugActionIndex": 1201
+      "DebugActionIndex": 1200
     },
     {
       "Annotation": "CopyFiles /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/Unity.XR.Management.dll",
@@ -28250,7 +28234,7 @@
       "ToBuildDependencies": [
         27
       ],
-      "DebugActionIndex": 1202
+      "DebugActionIndex": 1201
     },
     {
       "Annotation": "CopyFiles /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/Unity.XR.Management.pdb",
@@ -28265,7 +28249,7 @@
       "ToBuildDependencies": [
         27
       ],
-      "DebugActionIndex": 1203
+      "DebugActionIndex": 1202
     },
     {
       "Annotation": "CopyFiles /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/Unity.XR.Oculus.dll",
@@ -28280,7 +28264,7 @@
       "ToBuildDependencies": [
         27
       ],
-      "DebugActionIndex": 1204
+      "DebugActionIndex": 1203
     },
     {
       "Annotation": "CopyFiles /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/Unity.XR.Oculus.pdb",
@@ -28295,7 +28279,7 @@
       "ToBuildDependencies": [
         27
       ],
-      "DebugActionIndex": 1205
+      "DebugActionIndex": 1204
     },
     {
       "Annotation": "CopyFiles /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.AIModule.dll",
@@ -28310,7 +28294,7 @@
       "ToBuildDependencies": [
         27
       ],
-      "DebugActionIndex": 1206
+      "DebugActionIndex": 1205
     },
     {
       "Annotation": "CopyFiles /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.AIModule.pdb",
@@ -28325,7 +28309,7 @@
       "ToBuildDependencies": [
         27
       ],
-      "DebugActionIndex": 1207
+      "DebugActionIndex": 1206
     },
     {
       "Annotation": "CopyFiles /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.AndroidJNIModule.dll",
@@ -28340,7 +28324,7 @@
       "ToBuildDependencies": [
         27
       ],
-      "DebugActionIndex": 1208
+      "DebugActionIndex": 1207
     },
     {
       "Annotation": "CopyFiles /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.AndroidJNIModule.pdb",
@@ -28355,7 +28339,7 @@
       "ToBuildDependencies": [
         27
       ],
-      "DebugActionIndex": 1209
+      "DebugActionIndex": 1208
     },
     {
       "Annotation": "CopyFiles /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.AnimationModule.dll",
@@ -28370,7 +28354,7 @@
       "ToBuildDependencies": [
         27
       ],
-      "DebugActionIndex": 1210
+      "DebugActionIndex": 1209
     },
     {
       "Annotation": "CopyFiles /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.AnimationModule.pdb",
@@ -28385,7 +28369,7 @@
       "ToBuildDependencies": [
         27
       ],
-      "DebugActionIndex": 1211
+      "DebugActionIndex": 1210
     },
     {
       "Annotation": "CopyFiles /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.AssetBundleModule.dll",
@@ -28400,7 +28384,7 @@
       "ToBuildDependencies": [
         27
       ],
-      "DebugActionIndex": 1212
+      "DebugActionIndex": 1211
     },
     {
       "Annotation": "CopyFiles /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.AssetBundleModule.pdb",
@@ -28415,7 +28399,7 @@
       "ToBuildDependencies": [
         27
       ],
-      "DebugActionIndex": 1213
+      "DebugActionIndex": 1212
     },
     {
       "Annotation": "CopyFiles /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.AudioModule.dll",
@@ -28430,7 +28414,7 @@
       "ToBuildDependencies": [
         27
       ],
-      "DebugActionIndex": 1214
+      "DebugActionIndex": 1213
     },
     {
       "Annotation": "CopyFiles /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.AudioModule.pdb",
@@ -28445,7 +28429,7 @@
       "ToBuildDependencies": [
         27
       ],
-      "DebugActionIndex": 1215
+      "DebugActionIndex": 1214
     },
     {
       "Annotation": "CopyFiles /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.CoreModule.dll",
@@ -28460,7 +28444,7 @@
       "ToBuildDependencies": [
         27
       ],
-      "DebugActionIndex": 1216
+      "DebugActionIndex": 1215
     },
     {
       "Annotation": "CopyFiles /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.CoreModule.pdb",
@@ -28475,7 +28459,7 @@
       "ToBuildDependencies": [
         27
       ],
-      "DebugActionIndex": 1217
+      "DebugActionIndex": 1216
     },
     {
       "Annotation": "CopyFiles /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.dll",
@@ -28490,7 +28474,7 @@
       "ToBuildDependencies": [
         27
       ],
-      "DebugActionIndex": 1218
+      "DebugActionIndex": 1217
     },
     {
       "Annotation": "CopyFiles /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.GridModule.dll",
@@ -28505,7 +28489,7 @@
       "ToBuildDependencies": [
         27
       ],
-      "DebugActionIndex": 1219
+      "DebugActionIndex": 1218
     },
     {
       "Annotation": "CopyFiles /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.GridModule.pdb",
@@ -28520,7 +28504,7 @@
       "ToBuildDependencies": [
         27
       ],
-      "DebugActionIndex": 1220
+      "DebugActionIndex": 1219
     },
     {
       "Annotation": "CopyFiles /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.ImageConversionModule.dll",
@@ -28535,7 +28519,7 @@
       "ToBuildDependencies": [
         27
       ],
-      "DebugActionIndex": 1221
+      "DebugActionIndex": 1220
     },
     {
       "Annotation": "CopyFiles /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.ImageConversionModule.pdb",
@@ -28550,7 +28534,7 @@
       "ToBuildDependencies": [
         27
       ],
-      "DebugActionIndex": 1222
+      "DebugActionIndex": 1221
     },
     {
       "Annotation": "CopyFiles /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.IMGUIModule.dll",
@@ -28565,7 +28549,7 @@
       "ToBuildDependencies": [
         27
       ],
-      "DebugActionIndex": 1223
+      "DebugActionIndex": 1222
     },
     {
       "Annotation": "CopyFiles /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.IMGUIModule.pdb",
@@ -28580,7 +28564,7 @@
       "ToBuildDependencies": [
         27
       ],
-      "DebugActionIndex": 1224
+      "DebugActionIndex": 1223
     },
     {
       "Annotation": "CopyFiles /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.InputLegacyModule.dll",
@@ -28595,7 +28579,7 @@
       "ToBuildDependencies": [
         27
       ],
-      "DebugActionIndex": 1225
+      "DebugActionIndex": 1224
     },
     {
       "Annotation": "CopyFiles /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.InputLegacyModule.pdb",
@@ -28610,7 +28594,7 @@
       "ToBuildDependencies": [
         27
       ],
-      "DebugActionIndex": 1226
+      "DebugActionIndex": 1225
     },
     {
       "Annotation": "CopyFiles /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.InputModule.dll",
@@ -28625,7 +28609,7 @@
       "ToBuildDependencies": [
         27
       ],
-      "DebugActionIndex": 1227
+      "DebugActionIndex": 1226
     },
     {
       "Annotation": "CopyFiles /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.InputModule.pdb",
@@ -28640,7 +28624,7 @@
       "ToBuildDependencies": [
         27
       ],
-      "DebugActionIndex": 1228
+      "DebugActionIndex": 1227
     },
     {
       "Annotation": "CopyFiles /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.JSONSerializeModule.dll",
@@ -28655,7 +28639,7 @@
       "ToBuildDependencies": [
         27
       ],
-      "DebugActionIndex": 1229
+      "DebugActionIndex": 1228
     },
     {
       "Annotation": "CopyFiles /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.JSONSerializeModule.pdb",
@@ -28670,7 +28654,7 @@
       "ToBuildDependencies": [
         27
       ],
-      "DebugActionIndex": 1230
+      "DebugActionIndex": 1229
     },
     {
       "Annotation": "CopyFiles /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.pdb",
@@ -28685,7 +28669,7 @@
       "ToBuildDependencies": [
         27
       ],
-      "DebugActionIndex": 1231
+      "DebugActionIndex": 1230
     },
     {
       "Annotation": "CopyFiles /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.Physics2DModule.dll",
@@ -28700,7 +28684,7 @@
       "ToBuildDependencies": [
         27
       ],
-      "DebugActionIndex": 1232
+      "DebugActionIndex": 1231
     },
     {
       "Annotation": "CopyFiles /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.Physics2DModule.pdb",
@@ -28715,7 +28699,7 @@
       "ToBuildDependencies": [
         27
       ],
-      "DebugActionIndex": 1233
+      "DebugActionIndex": 1232
     },
     {
       "Annotation": "CopyFiles /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.PhysicsModule.dll",
@@ -28730,7 +28714,7 @@
       "ToBuildDependencies": [
         27
       ],
-      "DebugActionIndex": 1234
+      "DebugActionIndex": 1233
     },
     {
       "Annotation": "CopyFiles /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.PhysicsModule.pdb",
@@ -28745,7 +28729,7 @@
       "ToBuildDependencies": [
         27
       ],
-      "DebugActionIndex": 1235
+      "DebugActionIndex": 1234
     },
     {
       "Annotation": "CopyFiles /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.PropertiesModule.dll",
@@ -28760,7 +28744,7 @@
       "ToBuildDependencies": [
         27
       ],
-      "DebugActionIndex": 1236
+      "DebugActionIndex": 1235
     },
     {
       "Annotation": "CopyFiles /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.PropertiesModule.pdb",
@@ -28775,7 +28759,7 @@
       "ToBuildDependencies": [
         27
       ],
-      "DebugActionIndex": 1237
+      "DebugActionIndex": 1236
     },
     {
       "Annotation": "CopyFiles /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.SharedInternalsModule.dll",
@@ -28790,7 +28774,7 @@
       "ToBuildDependencies": [
         27
       ],
-      "DebugActionIndex": 1238
+      "DebugActionIndex": 1237
     },
     {
       "Annotation": "CopyFiles /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.SharedInternalsModule.pdb",
@@ -28805,7 +28789,7 @@
       "ToBuildDependencies": [
         27
       ],
-      "DebugActionIndex": 1239
+      "DebugActionIndex": 1238
     },
     {
       "Annotation": "CopyFiles /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.SpriteShapeModule.dll",
@@ -28820,7 +28804,7 @@
       "ToBuildDependencies": [
         27
       ],
-      "DebugActionIndex": 1240
+      "DebugActionIndex": 1239
     },
     {
       "Annotation": "CopyFiles /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.SpriteShapeModule.pdb",
@@ -28835,7 +28819,7 @@
       "ToBuildDependencies": [
         27
       ],
-      "DebugActionIndex": 1241
+      "DebugActionIndex": 1240
     },
     {
       "Annotation": "CopyFiles /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.SubsystemsModule.dll",
@@ -28850,7 +28834,7 @@
       "ToBuildDependencies": [
         27
       ],
-      "DebugActionIndex": 1242
+      "DebugActionIndex": 1241
     },
     {
       "Annotation": "CopyFiles /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.SubsystemsModule.pdb",
@@ -28865,7 +28849,7 @@
       "ToBuildDependencies": [
         27
       ],
-      "DebugActionIndex": 1243
+      "DebugActionIndex": 1242
     },
     {
       "Annotation": "CopyFiles /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.TerrainModule.dll",
@@ -28880,7 +28864,7 @@
       "ToBuildDependencies": [
         27
       ],
-      "DebugActionIndex": 1244
+      "DebugActionIndex": 1243
     },
     {
       "Annotation": "CopyFiles /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.TerrainModule.pdb",
@@ -28895,7 +28879,7 @@
       "ToBuildDependencies": [
         27
       ],
-      "DebugActionIndex": 1245
+      "DebugActionIndex": 1244
     },
     {
       "Annotation": "CopyFiles /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.TextCoreFontEngineModule.dll",
@@ -28910,7 +28894,7 @@
       "ToBuildDependencies": [
         27
       ],
-      "DebugActionIndex": 1246
+      "DebugActionIndex": 1245
     },
     {
       "Annotation": "CopyFiles /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.TextCoreFontEngineModule.pdb",
@@ -28925,7 +28909,7 @@
       "ToBuildDependencies": [
         27
       ],
-      "DebugActionIndex": 1247
+      "DebugActionIndex": 1246
     },
     {
       "Annotation": "CopyFiles /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.TextCoreTextEngineModule.dll",
@@ -28940,7 +28924,7 @@
       "ToBuildDependencies": [
         27
       ],
-      "DebugActionIndex": 1248
+      "DebugActionIndex": 1247
     },
     {
       "Annotation": "CopyFiles /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.TextCoreTextEngineModule.pdb",
@@ -28955,7 +28939,7 @@
       "ToBuildDependencies": [
         27
       ],
-      "DebugActionIndex": 1249
+      "DebugActionIndex": 1248
     },
     {
       "Annotation": "CopyFiles /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.TextRenderingModule.dll",
@@ -28970,7 +28954,7 @@
       "ToBuildDependencies": [
         27
       ],
-      "DebugActionIndex": 1250
+      "DebugActionIndex": 1249
     },
     {
       "Annotation": "CopyFiles /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.TextRenderingModule.pdb",
@@ -28985,7 +28969,7 @@
       "ToBuildDependencies": [
         27
       ],
-      "DebugActionIndex": 1251
+      "DebugActionIndex": 1250
     },
     {
       "Annotation": "CopyFiles /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.TilemapModule.dll",
@@ -29000,7 +28984,7 @@
       "ToBuildDependencies": [
         27
       ],
-      "DebugActionIndex": 1252
+      "DebugActionIndex": 1251
     },
     {
       "Annotation": "CopyFiles /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.TilemapModule.pdb",
@@ -29015,7 +28999,7 @@
       "ToBuildDependencies": [
         27
       ],
-      "DebugActionIndex": 1253
+      "DebugActionIndex": 1252
     },
     {
       "Annotation": "CopyFiles /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.UI.dll",
@@ -29030,7 +29014,7 @@
       "ToBuildDependencies": [
         27
       ],
-      "DebugActionIndex": 1254
+      "DebugActionIndex": 1253
     },
     {
       "Annotation": "CopyFiles /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.UI.pdb",
@@ -29045,7 +29029,7 @@
       "ToBuildDependencies": [
         27
       ],
-      "DebugActionIndex": 1255
+      "DebugActionIndex": 1254
     },
     {
       "Annotation": "CopyFiles /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.UIElementsModule.dll",
@@ -29060,7 +29044,7 @@
       "ToBuildDependencies": [
         27
       ],
-      "DebugActionIndex": 1256
+      "DebugActionIndex": 1255
     },
     {
       "Annotation": "CopyFiles /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.UIElementsModule.pdb",
@@ -29075,7 +29059,7 @@
       "ToBuildDependencies": [
         27
       ],
-      "DebugActionIndex": 1257
+      "DebugActionIndex": 1256
     },
     {
       "Annotation": "CopyFiles /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.UIModule.dll",
@@ -29090,7 +29074,7 @@
       "ToBuildDependencies": [
         27
       ],
-      "DebugActionIndex": 1258
+      "DebugActionIndex": 1257
     },
     {
       "Annotation": "CopyFiles /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.UIModule.pdb",
@@ -29105,7 +29089,7 @@
       "ToBuildDependencies": [
         27
       ],
-      "DebugActionIndex": 1259
+      "DebugActionIndex": 1258
     },
     {
       "Annotation": "CopyFiles /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.UnityWebRequestModule.dll",
@@ -29120,7 +29104,7 @@
       "ToBuildDependencies": [
         27
       ],
-      "DebugActionIndex": 1260
+      "DebugActionIndex": 1259
     },
     {
       "Annotation": "CopyFiles /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.UnityWebRequestModule.pdb",
@@ -29135,7 +29119,7 @@
       "ToBuildDependencies": [
         27
       ],
-      "DebugActionIndex": 1261
+      "DebugActionIndex": 1260
     },
     {
       "Annotation": "CopyFiles /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.VRModule.dll",
@@ -29150,7 +29134,7 @@
       "ToBuildDependencies": [
         27
       ],
-      "DebugActionIndex": 1262
+      "DebugActionIndex": 1261
     },
     {
       "Annotation": "CopyFiles /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.VRModule.pdb",
@@ -29165,7 +29149,7 @@
       "ToBuildDependencies": [
         27
       ],
-      "DebugActionIndex": 1263
+      "DebugActionIndex": 1262
     },
     {
       "Annotation": "CopyFiles /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.XRModule.dll",
@@ -29180,7 +29164,7 @@
       "ToBuildDependencies": [
         27
       ],
-      "DebugActionIndex": 1264
+      "DebugActionIndex": 1263
     },
     {
       "Annotation": "CopyFiles /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.XRModule.pdb",
@@ -29195,7 +29179,7 @@
       "ToBuildDependencies": [
         27
       ],
-      "DebugActionIndex": 1265
+      "DebugActionIndex": 1264
     },
     {
       "Annotation": "CopyFiles /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityLinkerToEditorData.json",
@@ -29210,7 +29194,7 @@
       "ToBuildDependencies": [
         27
       ],
-      "DebugActionIndex": 1266
+      "DebugActionIndex": 1265
     },
     {
       "Annotation": "CopyFiles /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/assets/bin/Data/unity default resources",
@@ -29222,7 +29206,7 @@
       "Outputs": [
         "/Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/assets/bin/Data/unity default resources"
       ],
-      "DebugActionIndex": 1267
+      "DebugActionIndex": 1266
     },
     {
       "Annotation": "WriteText Library/Bee/artifacts/csharpactions/build.gradle_4dd0.info",
@@ -29235,7 +29219,7 @@
       "Outputs": [
         "Library/Bee/artifacts/csharpactions/build.gradle_4dd0.info"
       ],
-      "DebugActionIndex": 1268
+      "DebugActionIndex": 1267
     },
     {
       "Annotation": "ActionGenerateProjectFiles /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/Bee/Android/Prj/IL2CPP/Gradle/build.gradle (+8 others)",
@@ -29271,12 +29255,12 @@
         "/Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/Bee/Android/Prj/IL2CPP/Gradle/gradle/wrapper/gradle-wrapper.properties"
       ],
       "ToBuildDependencies": [
-        1268
+        1267
       ],
       "OverwriteOutputs": false,
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 1269
+      "DebugActionIndex": 1268
     },
     {
       "Annotation": "CopyFiles /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/java/com/unity3d/player/UnityPlayerActivity.java",
@@ -29288,7 +29272,7 @@
       "Outputs": [
         "/Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/java/com/unity3d/player/UnityPlayerActivity.java"
       ],
-      "DebugActionIndex": 1270
+      "DebugActionIndex": 1269
     },
     {
       "Annotation": "CopyFiles /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/libs/unity-classes.jar",
@@ -29300,7 +29284,7 @@
       "Outputs": [
         "/Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/libs/unity-classes.jar"
       ],
-      "DebugActionIndex": 1271
+      "DebugActionIndex": 1270
     },
     {
       "Annotation": "CopyFiles /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/res/values/ids.xml",
@@ -29312,7 +29296,7 @@
       "Outputs": [
         "/Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/res/values/ids.xml"
       ],
-      "DebugActionIndex": 1272
+      "DebugActionIndex": 1271
     },
     {
       "Annotation": "CopyFiles /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/res/values-v21/styles.xml",
@@ -29324,7 +29308,7 @@
       "Outputs": [
         "/Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/res/values-v21/styles.xml"
       ],
-      "DebugActionIndex": 1273
+      "DebugActionIndex": 1272
     },
     {
       "Annotation": "CopyFiles /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/res/values-v28/styles.xml",
@@ -29336,7 +29320,7 @@
       "Outputs": [
         "/Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/res/values-v28/styles.xml"
       ],
-      "DebugActionIndex": 1274
+      "DebugActionIndex": 1273
     },
     {
       "Annotation": "CopyFiles /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/res/values-v31/styles.xml",
@@ -29348,7 +29332,7 @@
       "Outputs": [
         "/Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/res/values-v31/styles.xml"
       ],
-      "DebugActionIndex": 1275
+      "DebugActionIndex": 1274
     },
     {
       "Annotation": "CopyFiles /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/res/values/styles.xml",
@@ -29360,7 +29344,7 @@
       "Outputs": [
         "/Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/res/values/styles.xml"
       ],
-      "DebugActionIndex": 1276
+      "DebugActionIndex": 1275
     },
     {
       "Annotation": "WriteText /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/res/values/colors.xml",
@@ -29373,7 +29357,7 @@
       "Outputs": [
         "/Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/res/values/colors.xml"
       ],
-      "DebugActionIndex": 1277
+      "DebugActionIndex": 1276
     },
     {
       "Annotation": "WriteText /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/src/main/res/values/strings.xml",
@@ -29386,7 +29370,7 @@
       "Outputs": [
         "/Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/src/main/res/values/strings.xml"
       ],
-      "DebugActionIndex": 1278
+      "DebugActionIndex": 1277
     },
     {
       "Annotation": "CopyFiles /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/res/values-v30/freeformwindow.xml",
@@ -29398,7 +29382,7 @@
       "Outputs": [
         "/Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/res/values-v30/freeformwindow.xml"
       ],
-      "DebugActionIndex": 1279
+      "DebugActionIndex": 1278
     },
     {
       "Annotation": "CopyFiles /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/res/values/freeformwindow.xml",
@@ -29410,7 +29394,7 @@
       "Outputs": [
         "/Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/res/values/freeformwindow.xml"
       ],
-      "DebugActionIndex": 1280
+      "DebugActionIndex": 1279
     },
     {
       "Annotation": "CopyFiles /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/src/main/res/mipmap-anydpi-v26/app_icon.xml",
@@ -29422,7 +29406,7 @@
       "Outputs": [
         "/Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/src/main/res/mipmap-anydpi-v26/app_icon.xml"
       ],
-      "DebugActionIndex": 1281
+      "DebugActionIndex": 1280
     },
     {
       "Annotation": "CopyFiles /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/src/main/res/mipmap-anydpi-v26/app_icon_round.xml",
@@ -29434,7 +29418,7 @@
       "Outputs": [
         "/Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/src/main/res/mipmap-anydpi-v26/app_icon_round.xml"
       ],
-      "DebugActionIndex": 1282
+      "DebugActionIndex": 1281
     },
     {
       "Annotation": "CopyFiles /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/src/main/res/mipmap-mdpi/app_icon.png",
@@ -29446,7 +29430,7 @@
       "Outputs": [
         "/Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/src/main/res/mipmap-mdpi/app_icon.png"
       ],
-      "DebugActionIndex": 1283
+      "DebugActionIndex": 1282
     },
     {
       "Annotation": "CopyFiles /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/src/main/res/mipmap-mdpi/ic_launcher_background.png",
@@ -29458,7 +29442,7 @@
       "Outputs": [
         "/Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/src/main/res/mipmap-mdpi/ic_launcher_background.png"
       ],
-      "DebugActionIndex": 1284
+      "DebugActionIndex": 1283
     },
     {
       "Annotation": "CopyFiles /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/src/main/res/mipmap-mdpi/ic_launcher_foreground.png",
@@ -29470,7 +29454,7 @@
       "Outputs": [
         "/Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/src/main/res/mipmap-mdpi/ic_launcher_foreground.png"
       ],
-      "DebugActionIndex": 1285
+      "DebugActionIndex": 1284
     },
     {
       "Annotation": "CopyFiles /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/jniLibs/arm64-v8a/libmain.so",
@@ -29482,7 +29466,7 @@
       "Outputs": [
         "/Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/jniLibs/arm64-v8a/libmain.so"
       ],
-      "DebugActionIndex": 1286
+      "DebugActionIndex": 1285
     },
     {
       "Annotation": "SourceBuildPlayerFiles",
@@ -29490,11 +29474,11 @@
       "Inputs": [],
       "Outputs": [],
       "ToBuildDependencies": [
-        1286,
-        1299
+        1285,
+        1298
       ],
       "OverwriteOutputs": false,
-      "DebugActionIndex": 1287
+      "DebugActionIndex": 1286
     },
     {
       "Annotation": "WriteText Library/Bee/artifacts/csharpactions/LauncherManifestDiag.txt_zvqu.info",
@@ -29507,7 +29491,7 @@
       "Outputs": [
         "Library/Bee/artifacts/csharpactions/LauncherManifestDiag.txt_zvqu.info"
       ],
-      "DebugActionIndex": 1288
+      "DebugActionIndex": 1287
     },
     {
       "Annotation": "Generate Manifests Library/Bee/artifacts/Android/Manifest/LauncherManifestDiag.txt (+3 others)",
@@ -29651,12 +29635,12 @@
         141,
         143,
         145,
-        1288
+        1287
       ],
       "OverwriteOutputs": false,
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 1289
+      "DebugActionIndex": 1288
     },
     {
       "Annotation": "WriteText Library/Bee/artifacts/csharpactions/UnityClassRegistration.cpp_461o.info",
@@ -29669,7 +29653,7 @@
       "Outputs": [
         "Library/Bee/artifacts/csharpactions/UnityClassRegistration.cpp_461o.info"
       ],
-      "DebugActionIndex": 1290
+      "DebugActionIndex": 1289
     },
     {
       "Annotation": "ClassRegistrationGenerator /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/Bee/artifacts/Android/il2cppOutput/UnityClassRegistration.cpp",
@@ -29726,12 +29710,12 @@
       ],
       "ToBuildDependencies": [
         27,
-        1290
+        1289
       ],
       "OverwriteOutputs": false,
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 1291
+      "DebugActionIndex": 1290
     },
     {
       "Annotation": "Compile UnityClassRegistration Library/Bee/artifacts/Android/libunity/arm64-v8a/UnityClassRegistration.o",
@@ -29746,11 +29730,11 @@
         "Library/Bee/artifacts/Android/libunity/arm64-v8a/UnityClassRegistration.o"
       ],
       "ToBuildDependencies": [
-        1291
+        1290
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 1292
+      "DebugActionIndex": 1291
     },
     {
       "Annotation": "ICallRegistrationGenerator /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/Bee/artifacts/Android/il2cppOutput/UnityICallRegistration.cpp",
@@ -29795,7 +29779,7 @@
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 1293
+      "DebugActionIndex": 1292
     },
     {
       "Annotation": "Compile UnityICallRegistration Library/Bee/artifacts/Android/libunity/arm64-v8a/UnityICallRegistration.o",
@@ -29810,11 +29794,11 @@
         "Library/Bee/artifacts/Android/libunity/arm64-v8a/UnityICallRegistration.o"
       ],
       "ToBuildDependencies": [
-        1293
+        1292
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 1294
+      "DebugActionIndex": 1293
     },
     {
       "Annotation": "Link libunity Library/Bee/artifacts/Android/libunity/arm64-v8a/unstripped/libunity.so",
@@ -29832,12 +29816,12 @@
         "Library/Bee/artifacts/Android/libunity/arm64-v8a/unstripped/libunity.so"
       ],
       "ToBuildDependencies": [
-        1292,
-        1294
+        1291,
+        1293
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 1295
+      "DebugActionIndex": 1294
     },
     {
       "Annotation": "Generate Library/Bee/artifacts/Android/libunity/arm64-v8a/libunity.dbg.so from Library/Bee/artifacts/Android/libunity/arm64-v8a/unstripped/libunity.so Library/Bee/artifacts/Android/libunity/arm64-v8a/libunity.dbg.so",
@@ -29851,11 +29835,11 @@
         "Library/Bee/artifacts/Android/libunity/arm64-v8a/libunity.dbg.so"
       ],
       "ToBuildDependencies": [
-        1295
+        1294
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 1296
+      "DebugActionIndex": 1295
     },
     {
       "Annotation": "Generate Library/Bee/artifacts/Android/libunity/arm64-v8a/libunity.sym.so from Library/Bee/artifacts/Android/libunity/arm64-v8a/libunity.dbg.so Library/Bee/artifacts/Android/libunity/arm64-v8a/libunity.sym.so",
@@ -29869,11 +29853,11 @@
         "Library/Bee/artifacts/Android/libunity/arm64-v8a/libunity.sym.so"
       ],
       "ToBuildDependencies": [
-        1296
+        1295
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 1297
+      "DebugActionIndex": 1296
     },
     {
       "Annotation": "Stripping Library/Bee/artifacts/Android/libunity/arm64-v8a/unstripped/libunity.so -> Library/Bee/artifacts/Android/libunity/arm64-v8a/stripped/libunity.so Library/Bee/artifacts/Android/libunity/arm64-v8a/stripped/libunity.so",
@@ -29887,11 +29871,11 @@
         "Library/Bee/artifacts/Android/libunity/arm64-v8a/stripped/libunity.so"
       ],
       "ToBuildDependencies": [
-        1295
+        1294
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 1298
+      "DebugActionIndex": 1297
     },
     {
       "Annotation": "Adding note Library/Bee/artifacts/Android/libunity/arm64-v8a/stripped/libunity.so -> /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/jniLibs/arm64-v8a/libunity.so /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/jniLibs/arm64-v8a/libunity.so",
@@ -29907,12 +29891,12 @@
         "/Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/jniLibs/arm64-v8a/libunity.so"
       ],
       "ToBuildDependencies": [
-        1297,
-        1298
+        1296,
+        1297
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 1299
+      "DebugActionIndex": 1298
     },
     {
       "Annotation": "CopyFiles /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/symbols/arm64-v8a/libmain.so",
@@ -29924,7 +29908,7 @@
       "Outputs": [
         "/Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/symbols/arm64-v8a/libmain.so"
       ],
-      "DebugActionIndex": 1300
+      "DebugActionIndex": 1299
     },
     {
       "Annotation": "CopyFiles /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/symbols/arm64-v8a/libil2cpp.so",
@@ -29939,7 +29923,7 @@
       "ToBuildDependencies": [
         742
       ],
-      "DebugActionIndex": 1301
+      "DebugActionIndex": 1300
     },
     {
       "Annotation": "CopyFiles /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/symbols/arm64-v8a/libunity.so",
@@ -29952,9 +29936,9 @@
         "/Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/symbols/arm64-v8a/libunity.so"
       ],
       "ToBuildDependencies": [
-        1297
+        1296
       ],
-      "DebugActionIndex": 1302
+      "DebugActionIndex": 1301
     },
     {
       "Annotation": "WriteText Library/Bee/artifacts/csharpactions/unity_app_guid_xijs.info",
@@ -29967,7 +29951,7 @@
       "Outputs": [
         "Library/Bee/artifacts/csharpactions/unity_app_guid_xijs.info"
       ],
-      "DebugActionIndex": 1303
+      "DebugActionIndex": 1302
     },
     {
       "Annotation": "GuidGenerator /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/assets/bin/Data/unity_app_guid",
@@ -30002,12 +29986,12 @@
       "ToBuildDependencies": [
         5,
         146,
-        1303
+        1302
       ],
       "OverwriteOutputs": false,
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 1304
+      "DebugActionIndex": 1303
     },
     {
       "Annotation": "WriteText /Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/resources/META-INF/com.android.games.engine.build_fingerprint",
@@ -30020,7 +30004,7 @@
       "Outputs": [
         "/Users/viviana/VisualStudio/ATLS 4616/MR-Ball-Pit/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/resources/META-INF/com.android.games.engine.build_fingerprint"
       ],
-      "DebugActionIndex": 1305
+      "DebugActionIndex": 1304
     },
     {
       "Annotation": "Player",
@@ -30628,7 +30612,7 @@
         1264,
         1265,
         1266,
-        1267,
+        1268,
         1269,
         1270,
         1271,
@@ -30646,14 +30630,13 @@
         1283,
         1284,
         1285,
-        1286,
-        1289,
-        1299,
-        1304,
-        1305
+        1288,
+        1298,
+        1303,
+        1304
       ],
       "OverwriteOutputs": false,
-      "DebugActionIndex": 1306
+      "DebugActionIndex": 1305
     }
   ],
   "FileSignatures": [
@@ -31242,8 +31225,8 @@
   ],
         "NamedNodes": {
           "all_tundra_nodes": 0,
-          "SourceBuildPlayerFiles": 1287,
-          "Player": 1306
+          "SourceBuildPlayerFiles": 1286,
+          "Player": 1305
         }
 ,  "DefaultNodes": [
     0
